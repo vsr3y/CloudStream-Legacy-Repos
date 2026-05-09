@@ -1,0 +1,8 @@
+{
+    "name": "Multilingual providers repository",
+    "description": "Cloudstream Non-english Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/vsr3y/CloudStream-Legacy-Repos/refs/heads/main/plugins.json/[20230331101605] Multilingual providers repository.json"
+    ]
+}

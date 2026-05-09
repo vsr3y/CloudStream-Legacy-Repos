@@ -1,0 +1,8 @@
+{
+    "name": "(OLD) English providers repository",
+    "description": "Cloudstream English Plugin Repository. No longer maintained.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/vsr3y/CloudStream-Legacy-Repos/refs/heads/main/plugins.json/[20250623222652] (OLD) English providers repository.json"
+    ]
+  }

@@ -1,0 +1,8 @@
+{
+    "name": "LikDev-256 Providers Repository",
+    "description": "Tamil and Indian language Providers",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/vsr3y/CloudStream-Legacy-Repos/refs/heads/main/plugins.json/LikDev-256 Providers Repository.json"
+    ]
+}
